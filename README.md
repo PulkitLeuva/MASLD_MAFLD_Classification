@@ -22,10 +22,10 @@ The transition to MASLD reflects a move toward less stigmatizing and more precis
 
 ## Scripts Included
 
-1. **`classify_mafld.py`**  
+1. **`MAFLD_criteria.ipynb`**  
    - Implements binary classification based on MAFLD criteria.
 
-2. **`classify_masld.py`**  
+2. **`MASLD_criteria.ipynb`**  
    - Implements binary classification based on MASLD criteria.
 
 You can run each script with your prepared dataset to classify patients using the relevant definitions.
